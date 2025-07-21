@@ -1,0 +1,66 @@
+[
+  {
+    "Id": 1,
+    "name": "Dr. Sarah Chen",
+    "role": "Executive Director",
+    "bio": "Leading IGD with 20+ years of experience in international development and sustainable water solutions.",
+    "imageUrl": "https://images.unsplash.com/photo-1494790108755-2616b9d3bacd?ixlib=rb-4.0.3",
+    "order": 1
+  },
+  {
+    "Id": 2,
+    "name": "Michael Rodriguez",
+    "role": "Education Program Director",
+    "bio": "Expert in educational development with extensive experience building schools in remote areas across three continents.",
+    "imageUrl": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-4.0.3",
+    "order": 2
+  },
+  {
+    "Id": 3,
+    "name": "Dr. Amara Okafor",
+    "role": "Climate & Agriculture Specialist",
+    "bio": "Agricultural scientist focused on climate-smart farming techniques and sustainable food systems in developing regions.",
+    "imageUrl": "https://images.unsplash.com/photo-1580489944761-15a19d654956?ixlib=rb-4.0.3",
+    "order": 3
+  },
+  {
+    "Id": 4,
+    "name": "Dr. James Thompson",
+    "role": "Healthcare Program Manager",
+    "bio": "Public health expert specializing in mobile healthcare delivery and community health worker training programs.",
+    "imageUrl": "https://images.unsplash.com/photo-1612349317150-e413f6a5b16d?ixlib=rb-4.0.3",
+    "order": 4
+  },
+  {
+    "Id": 5,
+    "name": "Lisa Patel",
+    "role": "Women's Empowerment Coordinator",
+    "bio": "Development professional with expertise in microfinance, women's entrepreneurship, and gender equality initiatives.",
+    "imageUrl": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-4.0.3",
+    "order": 5
+  },
+  {
+    "Id": 6,
+    "name": "Dr. Kevin Wong",
+    "role": "Technology & Innovation Lead",
+    "bio": "Technology strategist focused on digital inclusion, e-governance solutions, and bridging the digital divide in underserved communities.",
+    "imageUrl": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3",
+    "order": 6
+  },
+  {
+    "Id": 7,
+    "name": "Maria Santos",
+    "role": "Field Operations Manager",
+    "bio": "Experienced field coordinator managing on-ground programs and community partnerships across multiple countries.",
+    "imageUrl": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?ixlib=rb-4.0.3",
+    "order": 7
+  },
+  {
+    "Id": 8,
+    "name": "David Kumar",
+    "role": "Finance & Administration",
+    "bio": "Financial management expert ensuring transparent and efficient use of resources for maximum development impact.",
+    "imageUrl": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-4.0.3",
+    "order": 8
+  }
+]

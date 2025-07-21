@@ -1,0 +1,44 @@
+[
+  {
+    "Id": 1,
+    "title": "Clean Water Access",
+    "description": "Providing sustainable water purification systems and community-led maintenance programs to ensure long-term access to clean water in rural communities.",
+    "icon": "Droplets",
+    "link": "/blog/sustainable-water-solutions-transform-communities"
+  },
+  {
+    "Id": 2,
+    "title": "Education for All",
+    "description": "Building schools and training centers in remote areas, combining formal education with vocational skills training for sustainable community development.",
+    "icon": "GraduationCap",
+    "link": "/blog/education-for-all-building-schools-remote-areas"
+  },
+  {
+    "Id": 3,
+    "title": "Climate-Smart Agriculture",
+    "description": "Helping farmers adapt to climate change through innovative farming techniques, drought-resistant crops, and sustainable agricultural practices.",
+    "icon": "Sprout",
+    "link": "/blog/climate-resilience-adapting-agriculture-changing-weather"
+  },
+  {
+    "Id": 4,
+    "title": "Mobile Healthcare",
+    "description": "Delivering essential medical services to underserved populations through mobile clinics and community health worker training programs.",
+    "icon": "Heart",
+    "link": "/blog/healthcare-access-mobile-clinics-underserved-areas"
+  },
+  {
+    "Id": 5,
+    "title": "Women's Empowerment",
+    "description": "Combining microfinance with skills training and leadership development to create economic opportunities and social change for women.",
+    "icon": "Users",
+    "link": "/blog/womens-empowerment-microfinance-skills-training"
+  },
+  {
+    "Id": 6,
+    "title": "Digital Inclusion",
+    "description": "Bridging the digital divide through technology centers, digital literacy training, and innovative e-governance solutions in rural areas.",
+    "icon": "Smartphone",
+    "link": "/blog/digital-inclusion-bridging-technology-gap"
+  }
+]

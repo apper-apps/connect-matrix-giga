@@ -51,7 +51,7 @@ const FeaturedInitiatives = () => {
         </motion.div>
 
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-          {initiatives.map((initiative, index) => (
+{initiatives.map((initiative, index) => (
             <motion.div
               key={initiative.Id}
               initial={{ opacity: 0, y: 30 }}

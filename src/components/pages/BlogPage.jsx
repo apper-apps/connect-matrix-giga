@@ -124,7 +124,7 @@ const BlogPage = () => {
             />
           ) : (
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-              {filteredPosts.map((post, index) => (
+{filteredPosts.map((post, index) => (
                 <motion.div
                   key={post.Id}
                   initial={{ opacity: 0, y: 30 }}

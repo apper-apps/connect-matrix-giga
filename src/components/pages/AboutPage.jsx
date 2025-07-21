@@ -234,7 +234,7 @@ const milestones = [
           
           {!loading && !error && team.length > 0 && (
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-8">
-              {team.map((member, index) => (
+{team.map((member, index) => (
                 <motion.div
                   key={member.Id}
                   initial={{ opacity: 0, y: 30 }}
@@ -611,7 +611,7 @@ const milestones = [
           
           {!loading && !error && team.length > 0 && (
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-8">
-              {team.map((member, index) => (
+{team.map((member, index) => (
                 <motion.div
                   key={member.Id}
                   initial={{ opacity: 0, y: 30 }}

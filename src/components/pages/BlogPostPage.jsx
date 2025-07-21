@@ -73,10 +73,10 @@ const BlogPostPage = () => {
             transition={{ duration: 0.6 }}
           >
             {/* Featured Image */}
-            {post.imageUrl && (
+{post.image_url && (
               <div className="aspect-w-16 aspect-h-9 mb-8">
                 <img
-                  src={post.imageUrl}
+                  src={post.image_url}
                   alt={post.title}
                   className="w-full h-96 object-cover rounded-xl shadow-lg"
                 />
@@ -87,9 +87,9 @@ const BlogPostPage = () => {
             <div className="flex items-center space-x-4 mb-6">
               <span className="inline-flex items-center px-3 py-1 rounded-full text-sm font-medium bg-primary-100 text-primary-700">
                 {post.category}
-              </span>
+</span>
               <time className="text-gray-500">
-                {format(new Date(post.publishDate), "MMMM dd, yyyy")}
+                {format(new Date(post.publish_date), "MMMM dd, yyyy")}
               </time>
               <span className="text-gray-500">By {post.author}</span>
             </div>
@@ -167,10 +167,10 @@ const BlogPostPage = () => {
                 >
                   <Link to={`/blog/${relatedPost.slug}`} className="block">
                     <div className="bg-white rounded-xl shadow-md hover:shadow-lg transition-shadow duration-200 overflow-hidden group">
-                      <div className="aspect-w-16 aspect-h-9 bg-gradient-to-br from-gray-100 to-gray-200">
-                        {relatedPost.imageUrl ? (
+<div className="aspect-w-16 aspect-h-9 bg-gradient-to-br from-gray-100 to-gray-200">
+                        {relatedPost.image_url ? (
                           <img
-                            src={relatedPost.imageUrl}
+                            src={relatedPost.image_url}
                             alt={relatedPost.title}
                             className="w-full h-48 object-cover group-hover:scale-105 transition-transform duration-300"
                           />
